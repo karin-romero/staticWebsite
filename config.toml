@@ -1,5 +1,5 @@
 baseURL = "https://github.com/karin-romero/staticWebsite/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-publishDir = "docs" 
-theme = "syna" 
+title = "MSIG XXI - My New Hugo Site"
+publishDir = "docs"
+theme = "beautifulhugo"
